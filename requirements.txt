@@ -1,8 +1,0 @@
-1 streamlit
-2 pandas
-3 numpy
-4 plotly
-5 requests
-6 yfinance
-7 xgboost
-8 scikit-learn
